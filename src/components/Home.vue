@@ -3,7 +3,7 @@
     <h1>
       {{ msg }}
     </h1>
-    <button>
+    <button @click="googleLogin">
       Google アカウント でログインする
     </button>
   </div>
@@ -16,7 +16,13 @@ export default {
     return {
       msg: "😁 Welcome to SPA by Vue.js and Firebase 😁"
     }
+  },
+  methods: {
+    googleLogin: function() {
+      firebase
+        .auth()
+        .signInWithRedirect(new firebase.auth.GoogleAuthProvider())
+    }
   }
 }
 </script>
-
