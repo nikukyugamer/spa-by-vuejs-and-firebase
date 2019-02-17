@@ -21,3 +21,18 @@ For detailed explanation on how things work, consult the [docs for vue-loader](h
 
 - SFC
   - Single File Component
+
+## 注意点（自力で解決した点）
+
+- To implement CSS(SASS) file
+
+```bash
+$ yarn add node-sass sass-loader
+```
+
+- `webpack.config.js`
+
+```javascript
+-        test: /\.css$/,
++        test: /\.(sa|sc|c)ss$/,
+```
