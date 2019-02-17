@@ -14,6 +14,7 @@
     "marked": "^0.6.0",
     "node-sass": "^4.11.0",
     "sass-loader": "^7.1.0",
+    "shitajicss": "^5.0.0",
     "vue": "^2.5.11"
   },
   "browserslist": [
