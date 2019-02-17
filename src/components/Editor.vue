@@ -52,6 +52,7 @@ export default {
       selectedIndex: 0
     }
   },
+  // コンポーネントが作成されたタイミングで実行される
   created: function() {
     firebase
       .database()
@@ -62,6 +63,19 @@ export default {
           this.memos = result.val()
         }
       })
+  },
+  // コンポーネントの描画が完了したタイミングで実行される
+  mounted: function() {
+    document.onkeydown = e => {
+      if (e.key == 's' && e.metaKey) {
+        this.saveMemos()
+        return false
+      }
+    }
+  },
+  // コンポーネントが削除されるタイミングで実行される
+  beforeDestroy: function() {
+    document.onkeydown = null
   },
   methods: {
     logout: function() {
