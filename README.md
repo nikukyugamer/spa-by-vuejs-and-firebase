@@ -36,3 +36,7 @@ $ yarn add node-sass sass-loader
 -        test: /\.css$/,
 +        test: /\.(sa|sc|c)ss$/,
 ```
+
+- About packages version
+  - "webpack-dev-server" 3 causes an error
+  - "css-loader" 2 causes an error
