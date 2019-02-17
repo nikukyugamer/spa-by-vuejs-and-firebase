@@ -1,7 +1,8 @@
 <template>
   <div id="home">
     <h1>
-      {{ msg }}
+      <img alt="SPA by Vue.js and Firebase" src="../assets/app_logo.png">
+      <!-- {{ msg }} -->
     </h1>
     <button @click="googleLogin">
       Google アカウント でログインする
