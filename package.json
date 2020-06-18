@@ -16,7 +16,7 @@
     "marked": "^0.8.0",
     "node-sass": "^4.11.0",
     "sass-loader": "^8.0.1",
-    "shitajicss": "^5.0.0",
+    "shitajicss": "^5.1.0",
     "svgo": "^1.3.2",
     "vue": "^2.5.11",
     "vue-router": "^3.0.2",
