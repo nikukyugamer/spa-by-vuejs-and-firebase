@@ -10,7 +10,7 @@
     "build": "cross-env NODE_ENV=production webpack --progress --hide-modules"
   },
   "dependencies": {
-    "cosmiconfig": "^6.0.0",
+    "cosmiconfig": "^7.0.0",
     "firebase-tools": "^8.6.0",
     "js-yaml": "^3.14.0",
     "marked": "^1.1.1",
