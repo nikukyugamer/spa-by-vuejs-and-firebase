@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "cosmiconfig": ">=7.0.0",
-    "firebase-tools": ">=9.2.1",
+    "firebase-tools": ">=9.2.2",
     "js-yaml": ">=4.0.0",
     "marked": ">=1.2.7",
     "node-sass": ">=5.0.0",
