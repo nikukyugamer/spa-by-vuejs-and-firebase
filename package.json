@@ -13,7 +13,7 @@
     "cosmiconfig": ">=7.0.0",
     "firebase-tools": ">=9.3.0",
     "js-yaml": ">=4.0.0",
-    "marked": ">=1.2.9",
+    "marked": ">=2.0.0",
     "node-sass": ">=5.0.0",
     "sass-loader": ">=11.0.0",
     "shitajicss": ">=5.1.0",
