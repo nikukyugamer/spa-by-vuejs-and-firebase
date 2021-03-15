@@ -6565,10 +6565,10 @@ shebang-regex@^3.0.0:
   resolved "https://registry.yarnpkg.com/shebang-regex/-/shebang-regex-3.0.0.tgz#ae16f1644d873ecad843b0307b143362d4c42172"
   integrity sha512-7++dFhtcx3353uBaq8DDR4NuxBetBzC7ZQOhmTQInHEd6bSrXdiEyzCvG07Z44UYdLShWUyXt5M/yhz8ekcb1A==
 
-shitajicss@>=5.1.0:
-  version "5.1.0"
-  resolved "https://registry.yarnpkg.com/shitajicss/-/shitajicss-5.1.0.tgz#40aef8935221445081ab4e73cba49d15ee7d9f34"
-  integrity sha512-Q0wjoTt58dEtXmVhWF6lgw+KFpmeDutzmRdn/RyqQ+FIuNX6u20b7qKRXaMMnQ5XX6qrprQW6GGITktinJI0tQ==
+shitajicss@>=6.0.0:
+  version "6.0.0"
+  resolved "https://registry.yarnpkg.com/shitajicss/-/shitajicss-6.0.0.tgz#db6fc76fc534beb38fdba85f864d90e8c92dce6d"
+  integrity sha512-KxvlHCwuWpXLM735HKDOCYNXSYSTrHA5NIHQz8/ULGexIayBV7inqWuBPKJ8UuI9vfOUVGpuJWPpzIsRWyJV2Q==
 
 signal-exit@^3.0.0, signal-exit@^3.0.2:
   version "3.0.3"
