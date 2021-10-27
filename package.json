@@ -15,7 +15,7 @@
     "js-yaml": "4.1.0",
     "marked": "3.0.8",
     "node-sass": "6.0.1",
-    "sass-loader": "12.2.0",
+    "sass-loader": "12.3.0",
     "shitajicss": "6.0.0",
     "svgo": "2.7.0",
     "vue": "2.6.14",
