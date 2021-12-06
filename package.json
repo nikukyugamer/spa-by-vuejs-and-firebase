@@ -14,7 +14,7 @@
     "firebase-tools": "9.23.0",
     "js-yaml": "4.1.0",
     "marked": "4.0.6",
-    "node-sass": "6.0.1",
+    "node-sass": "7.0.0",
     "sass-loader": "12.3.0",
     "shitajicss": "6.0.0",
     "svgo": "2.8.0",
