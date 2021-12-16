@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "cosmiconfig": "7.0.1",
-    "firebase-tools": "9.23.2",
+    "firebase-tools": "10.0.0",
     "js-yaml": "4.1.0",
     "marked": "4.0.7",
     "node-sass": "7.0.0",
