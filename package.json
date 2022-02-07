@@ -18,8 +18,8 @@
     "sass-loader": "12.4.0",
     "shitajicss": "6.0.0",
     "svgo": "2.8.0",
-    "vue": "2.6.14",
-    "vue-router": "3.5.3",
+    "vue": "3.2.29",
+    "vue-router": "4.0.12",
     "vue-style-loader": "4.1.3"
   },
   "browserslist": [
